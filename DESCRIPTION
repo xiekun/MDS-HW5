@@ -1,13 +1,9 @@
 Package: NBA
-Title: What the Package Does (One Line, Title Case)
+Title: Modern Data Structures - Homework 5
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
-License: What license it uses
+Authors@R: Ye (Evelyn) Deng (yd2463@columbia.edu)
+Description: This package is written for homework number 5 of the class Modern Data Structures at Columbia University in the winter of 2019.
+License: Unknown
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
