@@ -1,8 +1,8 @@
 Package: NBA
-Title: Modern Data Structures - Homework 5
+Title: MDS - HW5
 Version: 0.0.0.9000
 Authors@R: Evelyn Deng
-Description: This package is written for homework number 5 of the class Modern Data Structures at Columbia University in the winter of 2019.
+Description: Modern Data Structures - Homework 5
 License: Unknown
 Encoding: UTF-8
 LazyData: true
